@@ -37,6 +37,9 @@ a {
     color: white;
 }
 
+a :hover{
+    color: white;
+}
 
 
 /********************JUMBOTRON Cover page*****************/
